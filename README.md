@@ -1,16 +1,18 @@
-## Hi there 👋
+
+# -ABOUT ME- 👋
+
+
+- 🔭 I'm currently working on creating Lab Manuals for CompTIA certifications.
+- 🌱 I’m currently learning about Ethical Hacking, Networking, and Cybersecurity.
+- 👯 I'm looking to collaborate with Students and Professionals in the field of Computer Science.
+- 🤔 I'm looking to help with my knowledge in Networking and Cybersecurity.
+
+
+
 
 <!--
-**JonathanCas12/JonathanCas12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
